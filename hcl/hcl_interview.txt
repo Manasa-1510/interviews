@@ -1,0 +1,26 @@
+HCL interview 19.11.2017
+
+Questions:
+
+	Resume
+		○ Add detail description of the projects.
+		○ Add all the tools worked on .
+		○ How  Risk Management is done .
+		○ How Effort estimation is done .
+		
+
+	Java
+		○ Rules for Overriding 
+		○ Hierarchy of Access modifiers while overriding
+		○ Rules of exception while overriding
+		○ Creation of customized HashSet and  Hashtable
+		○ Interfaces implemented by Array List and Linked list
+		○ Explain Serializable.
+	
+	SQL
+		○ Joins
+	
+	Additional Topics
+	
+		○ Hibernate 
+		○ Springs
